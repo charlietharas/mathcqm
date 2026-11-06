@@ -1,0 +1,10 @@
+# rendered videos, images, and LaTeX intermediates
+media/
+slides/
+dist/
+tmp/
+
+# python and editor caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

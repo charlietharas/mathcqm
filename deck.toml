@@ -1,0 +1,80 @@
+title = "Mathematics Colloquium"
+
+# 0 = off, 1 = once, 1.5 = some, 2 = all animations loop (networks, graphs, etc.)
+loopingLevel = 2
+
+resolution = [1920, 1080]
+skip_reversing = true
+
+# PRESENTATION ORDER
+[[slides]]
+file = "scenes/title.py"
+scene = "TitleSlide"
+
+[[slides]]
+file = "scenes/agenda.py"
+scene = "AgendaSlide"
+
+[[slides]]
+file = "scenes/perceptron.py"
+scene = "PerceptronSlide"
+
+[[slides]]
+file = "scenes/nn.py"
+scene = "NeuralNetworkSlide"
+
+[[slides]]
+file = "scenes/functions.py"
+scene = "FunctionsSlide"
+
+[[slides]]
+file = "scenes/one_dim_relu.py"
+scene = "OneDimReLUSlide"
+
+[[slides]]
+file = "scenes/exponentials.py"
+scene = "ExponentialsSlide"
+
+[[slides]]
+file = "scenes/stone_weierstrass.py"
+scene = "StoneWeierstrassSlide"
+
+[[slides]]
+file = "scenes/exponential_approx.py"
+scene = "ExponentialApproxSlide"
+
+[[slides]]
+file = "scenes/exponential_relu.py"
+scene = "ExponentialReLUSlide"
+
+[[slides]]
+file = "scenes/limitations.py"
+scene = "LimitationsSlide"
+
+[[slides]]
+file = "scenes/learning.py"
+scene = "LearningSlide"
+
+[[slides]]
+file = "scenes/dimensionality_grid.py"
+scene = "DimensionalityGridSlide"
+
+[[slides]]
+file = "scenes/miti_data.py"
+scene = "MitiDataSlide"
+
+[[slides]]
+file = "scenes/miti_depth.py"
+scene = "MitiDepthSlide"
+
+[[slides]]
+file = "scenes/miti_structure.py"
+scene = "MitiStructureSlide"
+
+[[slides]]
+file = "scenes/bitter_lesson.py"
+scene = "BitterLessonSlide"
+
+[[slides]]
+file = "scenes/thanks.py"
+scene = "ThanksSlide"

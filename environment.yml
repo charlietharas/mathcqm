@@ -1,0 +1,12 @@
+name: manim
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.14
+  - manim=0.20.1
+  - pillow>=12,<13
+  - ffmpeg
+  - pip
+  - pip:
+      - manim-slides==5.7.0
