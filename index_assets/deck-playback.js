@@ -1,4 +1,8 @@
-/* Keep the outgoing frame visible until the next clip has decoded a frame. */
+/*
+Helper for slide deck playback.
+Keeps the outgoing frame visible until the next clip has decoded a frame.
+Generated with GPT Sol 6.1.
+*/
 (() => {
   const host = Reveal.getRevealElement();
   const cover = document.createElement('canvas');
