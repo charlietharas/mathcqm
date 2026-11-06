@@ -27,6 +27,9 @@
 
 ## Other references and inspiration
 
+- Brian Christian (2020). [The Alignment Problem](<https://brianchristian.org/the-alignment-problem/>).
+- Stuart Russell (2019). [Human Compatible](<https://aima.cs.berkeley.edu/~russell/hc.html>).
+- Blaise Agüera y Arcas (2025). [What Is Intelligence?](<https://mitpress.mit.edu/9780262049955/what-is-intelligence/>).
 - Bronstein et al. [Geometric Deep Learning](<https://geometricdeeplearning.com/>).
 - Welch Labs. [Why Deep Learning Works Unreasonably Well](<https://www.youtube.com/watch?v=qx7hirqgfuU>).
 - Yann LeCun et al. (1989). [Handwritten Digit Recognition with a Back-Propagation Network](<https://papers.nips.cc/paper_files/paper/1989/hash/53c3bce66e43be4f209556518c2fcb54-Abstract.html>).
